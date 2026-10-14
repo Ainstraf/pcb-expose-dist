@@ -27,4 +27,4 @@ Optional: 3×2 exposure test (six times in one file).
 
 - Photon Mono 4 only  
 - Windows build  
-- Actively under development  
+- development  
