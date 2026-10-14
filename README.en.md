@@ -1,8 +1,10 @@
 # pcb-expose
 
+> Machine translation of the Russian README. The [Russian version](README.md) is the source of truth if wording feels off.
+
 **PCB photoresist exposure** using an **Anycubic Photon Mono 4** LCD resin printer — without pouring resin. You feed an **Altium** Gerber folder (OutJob), build a mask for the panel, and export a `.pm4n` job. Copy it to a USB stick and run it on the printer like a normal print: UV hits the resist.
 
-**Русский:** [README.md](README.md)
+**Русский (оригинал):** [README.md](README.md)
 
 > Early public release. The Windows build has been run on a real Mono 4, but the tool is still evolving — expect bugs and changes. **Source code is not in this repository**; this repo is the distributable build plus user-facing docs.
 
