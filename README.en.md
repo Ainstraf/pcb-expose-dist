@@ -19,10 +19,14 @@ Mono 4 only.
 2. Run `pcb-expose\pcb-expose.exe` (**entire folder required**, not the exe alone).
 3. Open a Gerber folder (Altium OutJob) or drag it into the window.
 4. Select layers; optionally invert / mirror / offset.
-5. Enable **“Как на LCD”** (native LCD) → **Export .pm4n**.
+5. Enable **native LCD** mode → optionally tune raster quality and exposure calibration → **Export .pm4n**.
 6. Copy the file to the **root** of a FAT32 USB stick, **Latin** filename, plug into the printer.
 
-Optional: 3×2 exposure test (six times in one file).
+Optional: exposure calibration test (several export options for different workflows).
+
+### What's new (brief)
+
+See [Releases](https://github.com/Ainstraf/pcb-expose-dist/releases) — better exposure calibration and on-panel mask quality; build verified on hardware.
 
 ## Limitations
 
