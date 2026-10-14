@@ -4,7 +4,7 @@
 
 Утилита для **Anycubic Photon Mono 4**: Gerber (Altium) → маска экспонирования → файл `.pm4n`.
 
-Только Mono 4. Исходный код не публикуется.
+Только Mono 4.
 
 English: [README.en.md](README.en.md)
 
@@ -27,4 +27,4 @@ English: [README.en.md](README.en.md)
 
 - Только Photon Mono 4  
 - Windows-сборка  
-- Проект в активной разработке  
+- Проект в разработке  
