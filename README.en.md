@@ -4,7 +4,7 @@
 
 Tool for **Anycubic Photon Mono 4**: Gerber (Altium) → exposure mask → `.pm4n` file.
 
-Mono 4 only. Source code is not published.
+Mono 4 only.
 
 Русский: [README.md](README.md)
 
