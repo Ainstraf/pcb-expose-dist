@@ -2,7 +2,8 @@
 
 > **Under development** — early release for hardware testing. Bugs and breaking changes are expected.
 
-Tool for **Anycubic Photon Mono 4**: Gerber (Altium) → exposure mask → `.pm4n` file.
+A utility for **exposing photoresist on PCBs** using an **Anycubic Photon Mono 4** resin (UV) printer.  
+It takes **Altium** Gerbers (OutJob folder) and exports a `.pm4n` file for UV exposure on the printer.
 
 Mono 4 only.
 
@@ -27,4 +28,4 @@ Optional: 3×2 exposure test (six times in one file).
 
 - Photon Mono 4 only  
 - Windows build  
-- development  
+- Under development  
